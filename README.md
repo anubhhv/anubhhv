@@ -1,6 +1,3 @@
-# Hi 👋, I'm Anubhav Dubey.
-<br>
-
 # 💫 About Me:
 🎯 Currently focused on: AI engineering and scalable systems<br>🤝 Seeking collaboration in: Real-world AI applications<br>🧠 Need help with: Cloud infrastructure & CI/CD workflows<br>📚 Learning: Advanced Python DSA + Python for ML<br>💬 Ask me about: Technical writing, GitHub workflows, or project planning<br>⚡ Fun fact: My best ideas come during bike rides.
 
