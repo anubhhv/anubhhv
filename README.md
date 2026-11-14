@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎯 Currently focused on: AI engineering and scalable systems<br>🤝 Seeking collaboration in: Real-world AI applications<br>🧠 Need help with: Cloud infrastructure & CI/CD workflows<br>📚 Learning: Advanced Python DSA + Python for ML<br>💬 Ask me about: Technical writing, GitHub workflows, or project planning<br>⚡ Fun fact: My best ideas come during bike rides.
 
+## 🛠️ Development Log
+- **2026-11-14:** Reviewed my GitHub profile and recorded a development update to keep my project focus and learning journey visible.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anubhhv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhhv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anubhhv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhhv@gmail.com) 
